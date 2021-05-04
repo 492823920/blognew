@@ -1,0 +1,2 @@
+# blognew
+Django
